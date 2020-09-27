@@ -1,0 +1,25 @@
+[
+{
+  "directory": "C:/Users/yyzyu/Desktop/slam/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -TP  -I..\\module\\OpenCV\\include -I..\\module\\DBow3\\include -I..\\module\\Glob\\include\\Glob-1.0  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   -std:c++17 /FoCMakeFiles\\slam.dir\\src\\main.cpp.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\yyzyu\\Desktop\\slam\\src\\main.cpp",
+  "file": "C:/Users/yyzyu/Desktop/slam/src/main.cpp"
+},
+
+{
+  "directory": "C:/Users/yyzyu/Desktop/slam/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -TP  -I..\\module\\OpenCV\\include -I..\\module\\DBow3\\include -I..\\module\\Glob\\include\\Glob-1.0  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   -std:c++17 /FoCMakeFiles\\feature_training.dir\\example\\feature_training.cpp.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\yyzyu\\Desktop\\slam\\example\\feature_training.cpp",
+  "file": "C:/Users/yyzyu/Desktop/slam/example/feature_training.cpp"
+},
+
+{
+  "directory": "C:/Users/yyzyu/Desktop/slam/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -TP  -I..\\module\\OpenCV\\include -I..\\module\\DBow3\\include -I..\\module\\Glob\\include\\Glob-1.0  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   -std:c++17 /FoCMakeFiles\\gen_vocab.dir\\example\\gen_vocab_large.cpp.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\yyzyu\\Desktop\\slam\\example\\gen_vocab_large.cpp",
+  "file": "C:/Users/yyzyu/Desktop/slam/example/gen_vocab_large.cpp"
+},
+
+{
+  "directory": "C:/Users/yyzyu/Desktop/slam/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -TP  -I..\\module\\OpenCV\\include -I..\\module\\DBow3\\include -I..\\module\\Glob\\include\\Glob-1.0  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   -std:c++17 /FoCMakeFiles\\loop_closure.dir\\example\\loop_closure.cpp.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\yyzyu\\Desktop\\slam\\example\\loop_closure.cpp",
+  "file": "C:/Users/yyzyu/Desktop/slam/example/loop_closure.cpp"
+}
+]

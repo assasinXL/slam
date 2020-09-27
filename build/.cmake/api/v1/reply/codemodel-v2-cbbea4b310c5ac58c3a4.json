@@ -1,0 +1,368 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "slam",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-85401610754f694398dd.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-f0f1c2ab3f2933cd3677.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "feature_training::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-feature_training-Debug-069c71c5094f68e115e6.json",
+					"name" : "feature_training",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gen_vocab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gen_vocab-Debug-c64c7fb0778563623a18.json",
+					"name" : "gen_vocab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "loop_closure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-loop_closure-Debug-fcea965e895c85334595.json",
+					"name" : "loop_closure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "show_match_result::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-show_match_result-Debug-83609a27709e7a78b618.json",
+					"name" : "show_match_result",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "slam",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-85401610754f694398dd.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-f0f1c2ab3f2933cd3677.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "feature_training::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-feature_training-Release-ea34d846fc25ee7317c3.json",
+					"name" : "feature_training",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gen_vocab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gen_vocab-Release-d0f70874bebc77ebfceb.json",
+					"name" : "gen_vocab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "loop_closure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-loop_closure-Release-46f56d41262008247e84.json",
+					"name" : "loop_closure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "show_match_result::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-show_match_result-Release-a89ba2a1776459448bf1.json",
+					"name" : "show_match_result",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "slam",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-85401610754f694398dd.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-f0f1c2ab3f2933cd3677.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "feature_training::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-feature_training-MinSizeRel-6d8a24c26a4fa597a83a.json",
+					"name" : "feature_training",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gen_vocab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gen_vocab-MinSizeRel-7c4ab7cf7affe234a171.json",
+					"name" : "gen_vocab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "loop_closure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-loop_closure-MinSizeRel-90e4f5ab4fa45a6b9375.json",
+					"name" : "loop_closure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "show_match_result::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-show_match_result-MinSizeRel-77fea1f98dd0660f4c0f.json",
+					"name" : "show_match_result",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "slam",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-85401610754f694398dd.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-f0f1c2ab3f2933cd3677.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "feature_training::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-feature_training-RelWithDebInfo-1b843d6903f9c1499c23.json",
+					"name" : "feature_training",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gen_vocab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gen_vocab-RelWithDebInfo-bf0d7b53baa1dddda8e4.json",
+					"name" : "gen_vocab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "loop_closure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-loop_closure-RelWithDebInfo-46a1bade44d7c5081bdf.json",
+					"name" : "loop_closure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "show_match_result::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-show_match_result-RelWithDebInfo-bd5af33ff64d3c2e6fb1.json",
+					"name" : "show_match_result",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/yyzyu/Desktop/slam/build",
+		"source" : "C:/Users/yyzyu/Desktop/slam"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

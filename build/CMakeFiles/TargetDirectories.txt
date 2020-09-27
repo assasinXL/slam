@@ -1,0 +1,6 @@
+C:/Users/yyzyu/Desktop/slam/build/CMakeFiles/feature_training.dir
+C:/Users/yyzyu/Desktop/slam/build/CMakeFiles/gen_vocab.dir
+C:/Users/yyzyu/Desktop/slam/build/CMakeFiles/loop_closure.dir
+C:/Users/yyzyu/Desktop/slam/build/CMakeFiles/show_match_result.dir
+C:/Users/yyzyu/Desktop/slam/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/yyzyu/Desktop/slam/build/CMakeFiles/ZERO_CHECK.dir
